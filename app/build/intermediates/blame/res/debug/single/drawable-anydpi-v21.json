@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_location_city_black_24px.xml",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location_city_black_24px.xml"
+    },
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_home_black_24px.xml",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black_24px.xml"
+    },
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_face_black_24px.xml",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_face_black_24px.xml"
+    },
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_notifications_black_24px.xml",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_black_24px.xml"
+    }
+]

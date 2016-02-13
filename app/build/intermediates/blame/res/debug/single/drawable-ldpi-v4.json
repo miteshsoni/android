@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_location_city_black_24px.png",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location_city_black_24px.png"
+    },
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_notifications_black_24px.png",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications_black_24px.png"
+    },
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_home_black_24px.png",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home_black_24px.png"
+    },
+    {
+        "merged": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_face_black_24px.png",
+        "source": "/Users/iMitesh/AndroidStudioProjects/Abode/app/build/generated/res/pngs/debug/drawable-ldpi/ic_face_black_24px.png"
+    }
+]
